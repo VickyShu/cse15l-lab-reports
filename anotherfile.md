@@ -14,3 +14,4 @@ this is another file.
 
 `Inline code`
 
+**_Italic and Bold_**
